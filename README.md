@@ -18,8 +18,8 @@
 - **Feel free to recode but be sure to credit me.**
 
 ### Support
-> [Support Server](https://discord.gg/dGYn2ghxbP)
-> [Donate me via PayPal](https://paypal.me/lytetools)
+> [Support Server](https://discord.gg/dGYn2ghxbP)<br>
+> [Donate me via PayPal](https://paypal.me/lytetools)<br>
 > [Donate me via Saweria](https://saweria.co/LyteVV)
 
 ### Website Preview:
